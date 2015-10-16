@@ -6,10 +6,10 @@
         id        = "nz.ac.auckland-ict-gradschool.phonegap.basic-osm-map-app"
         version   = "1.0.0">
 
-    <name>PhoneGap OpenStreet Map</name>
+    <name>PhoneGap OpenStreet Map Basic</name>
 	
     <description>
-		A hello world Phonegap App demonstrating some basic Open Street Map capabilities via the Leaflet JavaScript API
+		A hello world Phonegap App demonstrating some basic Open Street Map capabilities via the Leaflet JavaScript API.  The tiles used to draw the map are accessed directly over the web from the Open Street Map site when the app is running, and so the phone/tablet running the app needs to have Internet access to operate correctly.
     </description>
 
     <author email="davidb@waikato.ac.nz" href="http://www.cs.waikato.ac.nz/~davidb">
